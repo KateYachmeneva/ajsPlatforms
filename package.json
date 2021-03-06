@@ -1,0 +1,19 @@
+{
+  "name": "@kateyachmeneva/ajsplatforms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KateYachmeneva/ajsPlatforms.git"
+  },
+  "author": "KateYachmeneva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KateYachmeneva/ajsPlatforms/issues"
+  },
+  "homepage": "https://github.com/KateYachmeneva/ajsPlatforms#readme"
+}
